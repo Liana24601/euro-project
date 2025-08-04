@@ -1,8 +1,8 @@
 const questions = [
   {
-    question: "-----",
-    options: ["a", "b", "c", "d"],
-    answer: "b"
+    question: "The Renaissance marks the beginning of the modern era in large part due to the development of all of the following EXCEPT:",
+    options: ["the foundations of capitalism were laid at this time", "individualism emerged as a trend", "trade with the new western world began trend of Global trade", "scientific thought emerged with an emphasis on the scientific method", "northern Europe began to dominate southern europe"],
+    answer: "northern Europe began to dominate southern europe"
   },
   {
     question: "------",
