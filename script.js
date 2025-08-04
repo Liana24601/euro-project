@@ -50,34 +50,34 @@ const questions = [
     answer: "proficiency in the military arts"
   },
   {
-    question: "--",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
+    question: "Renaissance humanism:",
+    options: ["devalued mastery of ancient languages", "urged the development of a single talent to perfection", "valued ancient philosophers as the final authorities on all matters", "denied the existence of God", "valued scholarship for its own sake and for the glory it brought the city-state"],
+    answer: "valued scholarship for its own sake and for the glory it brought the city-state"
   },
   {
-    question: "--",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
+    question: "The belief that by cultivating the finest qualities of their beings, human beings could commune with God was a conclusion of:",
+    options: ["guildsmen", "neoplatonists", "the lay piety movement", "the Catholic Church in Renaissance Italy", "the doge"],
+    answer: "neoplatonists"
   },
   {
-    question: "--",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
+    question: "Which of the following did NOT enable the spread of the Renaissance?",
+    options: ["the Treaty of Lodi", "Milan's invitation to Charles VIII to bring troops to Italy", "the printing press", "students and teachers migrating in and out of the Italian peninsula", "the lay piety movement"],
+    answer: "the Treaty of Lodi"
   },
   {
-    question: "--",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
+    question: "Which of the following was NOT a factor that contributed to the Renaissance artistic achievement?",
+    options: ["the patronage of the pope", "the invasion of Italy by the French", "the competitive spirit of competing elites", "the apprentice system", "the lack of separation between artistic and commercial aspects of the Renaissance art world"],
+    answer: "the invasion of Italy by the French"
   },
   {
-    question: "--",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
+    question: "Renaissance art:",
+    options: ["was characterized by the severe specialization of its artists", "was characterized by religious subject matter", "abandoned painting in favor of sculpture", "was characterized by its concern for the human form", "did not require patrons"],
+    answer: "was characterized by its concern for the human form"
   },
   {
-    question: "--",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
+    question: "Northern humanism:",
+    options: ["was less secular than Italian humanism", "linked scholarship and learning with religious piety", "criticized the notion that priests were required to understand the Bible", "contributed to the Reformation", "all of the above"],
+    answer: "all of the above"
   },
   {
     question: "--",
@@ -142,5 +142,5 @@ function buildQuiz() {
     quizForm.appendChild(div);
   });
 }
-}
+
 
