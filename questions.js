@@ -324,250 +324,250 @@ ap euro questions for the site (ngl, most of them are from quizlet):
     d. Deism [CORRECT]
     e. Atheism
 
-46. The style of Enlightenment literature made famous by Voltaire was:
-a. the philosophical treatise
-b. the satire [CORRECT]
-c. the play
-d. the pamphlet
-e. the novel
+46) The style of Enlightenment literature made famous by Voltaire was:
+    a. the philosophical treatise
+    b. the satire [CORRECT]
+    c. the play
+    d. the pamphlet
+    e. the novel
 
-47. Which of the following presented the most radical challenge to the traditional ruling regimes of eighteenth-century Europe?
-a. Locke's notion that humans are born tabula rasa
-b. Hobbes's notion that human nature requires a ruler with absolute power
-c. Beccaria's notion that the goal of a legal system should be the rehabilitation and reintegration of the criminal to society
-d. the concept of religious toleration
-e. Rousseau's notion that a lawful government must be continually responsible to the general will of the people [CORRECT]
+47) Which of the following presented the most radical challenge to the traditional ruling regimes of eighteenth-century Europe?
+    a. Locke's notion that humans are born tabula rasa
+    b. Hobbes's notion that human nature requires a ruler with absolute power
+    c. Beccaria's notion that the goal of a legal system should be the rehabilitation and reintegration of the criminal to society
+    d. the concept of religious toleration
+    e. Rousseau's notion that a lawful government must be continually responsible to the general will of the people [CORRECT]
 
-48. Which of the following is NOT part of Rousseau's thought?
-a. Humans are born essentially good and virtuous but are easily corrupted by society.
-b. The early years of a child's education should be spent developing the senses, sensibilities, and sentiments.
-c. "Man is born free; and everywhere he is in chains."
-d. All religion is based on "hope and fear." [CORRECT]
-e. The virtuous citizen should be willing to subordinate his own self-interest to the general good of the community.
+48) Which of the following is NOT part of Rousseau's thought?
+    a. Humans are born essentially good and virtuous but are easily corrupted by society.
+    b. The early years of a child's education should be spent developing the senses, sensibilities, and sentiments.
+    c. "Man is born free; and everywhere he is in chains."
+    d. All religion is based on "hope and fear." [CORRECT]
+    e. The virtuous citizen should be willing to subordinate his own self-interest to the general good of the community.
 
-49. The main obstacle to solving France's financial problems was:
-a. the extravagant lifestyle of Louis XVI
-b. the unwillingness of the Third Estate to pay more
-c. the fact that both the nobility and clergy were exempt from most taxes [CORRECT]
-d. foreign wars
-e. a bad economy
+49) The main obstacle to solving France's financial problems was:
+    a. the extravagant lifestyle of Louis XVI
+    b. the unwillingness of the Third Estate to pay more
+    c. the fact that both the nobility and clergy were exempt from most taxes [CORRECT]
+    d. foreign wars
+    e. a bad economy
 
-50. The significance of the storming of the Bastille was that:
-a. it put ammunition into the hands of the Paris crowd
-b. it marked the beginning of a radical phase of the revolution
-c. it freed important leaders from prison
-d. it demonstrated that the crowd could be an important ally for the Assembly [CORRECT]
-e. it demonstrated that the crowd was tired of monarchy
+50) The significance of the storming of the Bastille was that:
+    a. it put ammunition into the hands of the Paris crowd
+    b. it marked the beginning of a radical phase of the revolution
+    c. it freed important leaders from prison
+    d. it demonstrated that the crowd could be an important ally for the Assembly [CORRECT]
+    e. it demonstrated that the crowd was tired of monarchy
 
-51. The Great Fear of the summer of 1789:
-a. politicized the urban workers of Paris
-b. catalyzed a European coalition against the French revolution
-c. put greater pressure on the Assembly to enact more radical legislation
-d. strengthened the position of the nobility
-e. demonstrated the desperation of an overtaxed peasantry [CORRECT]
+51) The Great Fear of the summer of 1789:
+    a. politicized the urban workers of Paris
+    b. catalyzed a European coalition against the French revolution
+    c. put greater pressure on the Assembly to enact more radical legislation
+    d. strengthened the position of the nobility
+    e. demonstrated the desperation of an overtaxed peasantry [CORRECT]
 
-52. The Civil Constitution of the Clergy:
-a. allied the clergy with the Assembly
-b. curbed the power of the clergy but alienated many Catholics [CORRECT]
-c. brought the Assembly greater support among the Catholic population
-d. reaffirmed the central place of the Church in the French government
-e. made Catholicism illegal in France
+52) The Civil Constitution of the Clergy:
+    a. allied the clergy with the Assembly
+    b. curbed the power of the clergy but alienated many Catholics [CORRECT]
+    c. brought the Assembly greater support among the Catholic population
+    d. reaffirmed the central place of the Church in the French government
+    e. made Catholicism illegal in France
 
-53. All of the following precipitated the radical turn of the revolution EXCEPT
-a. the rise of the sans-culottes
-b. the flight of the king
-c. the division of the Assembly into factions
-d. the execution of the king [CORRECT]
-e. the outbreak of war with Austria and Prussia
+53) All of the following precipitated the radical turn of the revolution EXCEPT
+    a. the rise of the sans-culottes
+    b. the flight of the king
+    c. the division of the Assembly into factions
+    d. the execution of the king [CORRECT]
+    e. the outbreak of war with Austria and Prussia
 
-54. The Reign of Terror:
-a. was necessary, according to Robespierre, to establish a democratic republic [CORRECT]
-b. was opposed by the Parisian crowd
-c. was aimed only at the nobility
-d. was anticlerical
-e. was worst in the countryside
+54) The Reign of Terror:
+    a. was necessary, according to Robespierre, to establish a democratic republic [CORRECT]
+    b. was opposed by the Parisian crowd
+    c. was aimed only at the nobility
+    d. was anticlerical
+    e. was worst in the countryside
 
-55. In Thermidor:
-a. the nobility reasserted its power
-b. France was defeated by the European coalition
-c. the French monarchy was restored
-d. the sans-culottes chose to govern France directly
-e. the moderate portion of the propertied bourgeoisie reasserted its power [CORRECT]
+55) In Thermidor:
+    a. the nobility reasserted its power
+    b. France was defeated by the European coalition
+    c. the French monarchy was restored
+    d. the sans-culottes chose to govern France directly
+    e. the moderate portion of the propertied bourgeoisie reasserted its power [CORRECT]
 
-56. The Directory turned to the military because
-a. it lost the support of the sans-culottes
-b. it lost the support of the nobility
-c. it was threatened by both Jacobin and Royalist opposition [CORRECT]
-d. it feared it would lose the next election
-e. it was overthrown by a general
+56) The Directory turned to the military because
+    a. it lost the support of the sans-culottes
+    b. it lost the support of the nobility
+    c. it was threatened by both Jacobin and Royalist opposition [CORRECT]
+    d. it feared it would lose the next election
+    e. it was overthrown by a general
 
-57. Which of the following was NOT a principle upheld by the Napoleonic Code?
-a. the safeguarding of all forms of property
-b. the safeguarding of the traditional privileges and prerogatives of the nobility [CORRECT]
-c. the safeguarding of the traditional privileges and prerogative of the family patriarch
-d. equality before the law
-e. promotion by merit rather than birth
+57) Which of the following was NOT a principle upheld by the Napoleonic Code?
+    a. the safeguarding of all forms of property
+    b. the safeguarding of the traditional privileges and prerogatives of the nobility [CORRECT]
+    c. the safeguarding of the traditional privileges and prerogative of the family patriarch
+    d. equality before the law
+    e. promotion by merit rather than birth
 
-58. The Concordat of 1801:
-a. created a temporary peace between France and Russia
-b. made Napoleon the "consul for life"
-c. made Napoleon Emperor of France
-d. reconciled France with the Roman Church [CORRECT]
-e. forbade the areas of Europe controlled by Napoleon from trading with Great Britain
+58) The Concordat of 1801:
+    a. created a temporary peace between France and Russia
+    b. made Napoleon the "consul for life"
+    c. made Napoleon Emperor of France
+    d. reconciled France with the Roman Church [CORRECT]
+    e. forbade the areas of Europe controlled by Napoleon from trading with Great Britain
 
-59. In October 1805 at the Battle of Trafalgar:
-a. the British navy defeated the combined French and Spanish fleets [CORRECT]
-b. Napoleon's Grand Army was destroyed
-c. the French army won a victory that gave Napoleon effective control of all of Germany
-d. Napoleon's forces won a victory that forced Russia into a treaty with France
-e. Napoleon was captured and sent to the island of Elba
+59) In October 1805 at the Battle of Trafalgar:
+    a. the British navy defeated the combined French and Spanish fleets [CORRECT]
+    b. Napoleon's Grand Army was destroyed
+    c. the French army won a victory that gave Napoleon effective control of all of Germany
+    d. Napoleon's forces won a victory that forced Russia into a treaty with France
+    e. Napoleon was captured and sent to the island of Elba
 
-60. The decline and fall of Napoleon is best explained by:
-a. the inefficiency of the French army
-b. his tactical blunders
-c. internal resistance by royalists and republicans
-d. the British victory at the Battle of Trafalgar
-e. a combination of flawed policies and growing resistance to French rule [CORRECT]
+60) The decline and fall of Napoleon is best explained by:
+    a. the inefficiency of the French army
+    b. his tactical blunders
+    c. internal resistance by royalists and republicans
+    d. the British victory at the Battle of Trafalgar
+    e. a combination of flawed policies and growing resistance to French rule [CORRECT]
 
-61. The aims of the great powers represented at the Congress of Vienna were:
-a. to so weaken France that it could never threaten Europe again
-b. to secure the democratic reforms won by the French Revolution
-c. to restore the traditional order and to create a new balance of power [CORRECT]
-d. to create an alliance system
-e. to provide independent nation states for Italy, Hungary, and Czechoslovakia
+61) The aims of the great powers represented at the Congress of Vienna were:
+    a. to so weaken France that it could never threaten Europe again
+    b. to secure the democratic reforms won by the French Revolution
+    c. to restore the traditional order and to create a new balance of power [CORRECT]
+    d. to create an alliance system
+    e. to provide independent nation states for Italy, Hungary, and Czechoslovakia
 
-62. The Concert of Europe:
-a. supported Spanish resistance to French rule
-b. opposed the Greek independence movement
-c. was unanimous in its opposition to nationalist rebellions
-d. authorized Austria to use military force to put down Italian nationalist movements [CORRECT]
-e. supported a rebellion for reform in Russia in 1825
+62) The Concert of Europe:
+    a. supported Spanish resistance to French rule
+    b. opposed the Greek independence movement
+    c. was unanimous in its opposition to nationalist rebellions
+    d. authorized Austria to use military force to put down Italian nationalist movements [CORRECT]
+    e. supported a rebellion for reform in Russia in 1825
 
-63. The July Ordinances of 1830:
-a. refer to the bombarding of Frankfurt by the Prussian military
-b. led to a rebellion that forced Charles X of France to abdicate [CORRECT]
-c. proclaimed the Second Republic of France
-d. outlawed political meetings known as "banquets"
-e. proclaimed Greek independence from the Ottoman Empire
+63) The July Ordinances of 1830:
+    a. refer to the bombarding of Frankfurt by the Prussian military
+    b. led to a rebellion that forced Charles X of France to abdicate [CORRECT]
+    c. proclaimed the Second Republic of France
+    d. outlawed political meetings known as "banquets"
+    e. proclaimed Greek independence from the Ottoman Empire
 
-64. The revolutions of 1848 are best understood as:
-a. the result of tension between liberal and nationalist aspirations of the people of Europe and the determined conservatism of their aristocratic masters [CORRECT]
-b. independence movements
-c. large-scale attempts to redistribute wealth in European society
-d. precursors to the French Revolution
-e. democratic revolution
+64) The revolutions of 1848 are best understood as:
+    a. the result of tension between liberal and nationalist aspirations of the people of Europe and the determined conservatism of their aristocratic masters [CORRECT]
+    b. independence movements
+    c. large-scale attempts to redistribute wealth in European society
+    d. precursors to the French Revolution
+    e. democratic revolution
 
-65. Which of the following was NOT an effect of the division of labor?
-a. It increased the supply of labor available to manufacturers.
-b. It raised wages for manufacturing workers. [CORRECT]
-c. It increased the volume that manufacturers could produce.
-d. It allowed manufacturers to sell their products more cheaply.
-e. It allowed manufacturers to increase their profits.
+65) Which of the following was NOT an effect of the division of labor?
+    a. It increased the supply of labor available to manufacturers.
+    b. It raised wages for manufacturing workers. [CORRECT]
+    c. It increased the volume that manufacturers could produce.
+    d. It allowed manufacturers to sell their products more cheaply.
+    e. It allowed manufacturers to increase their profits.
 
-66. The invention of new forms of power such as steam and electricity:
-a. led to the creation of the factory system
-b. facilitated the invention of the automobile
-c. decreased demand for coal
-d. allowed manufacturers to relocate their mills away from water sources [CORRECT]
-e. doomed the shipping industry
+66) The invention of new forms of power such as steam and electricity:
+    a. led to the creation of the factory system
+    b. facilitated the invention of the automobile
+    c. decreased demand for coal
+    d. allowed manufacturers to relocate their mills away from water sources [CORRECT]
+    e. doomed the shipping industry
 
-67. In general, the Second Industrial Revolution in Europe:
-a. began on the Continent and spread in all directions
-b. took place in Great Britain
-c. took place more slowly in Eastern Europe
-d. was stimulated by government investment in Western Europe
-e. took place later but more rapidly in Eastern Europe [CORRECT]
+67) In general, the Second Industrial Revolution in Europe:
+    a. began on the Continent and spread in all directions
+    b. took place in Great Britain
+    c. took place more slowly in Eastern Europe
+    d. was stimulated by government investment in Western Europe
+    e. took place later but more rapidly in Eastern Europe [CORRECT]
 
-68. The railway boom of the 1830s and 1840s:
-a. increased demand for steel but decreased demand for coal
-b. did not affect the demand for steel
-c. increased demand for both steel and coal [CORRECT]
-d. increased demand for coal but decreased demand for steel
-e. did not affect the demand for coal
+68) The railway boom of the 1830s and 1840s:
+    a. increased demand for steel but decreased demand for coal
+    b. did not affect the demand for steel
+    c. increased demand for both steel and coal [CORRECT]
+    d. increased demand for coal but decreased demand for steel
+    e. did not affect the demand for coal
 
-69. Which of the following was an advantage enjoyed by Great Britain that helps to explain why the Second Industrial Revolution originated there?
-a. an extensive river system
-b. the lack of internal trade tariffs
-c. a well-developed commercial economy
-d. natural resources
-e. all of the above [CORRECT]
+69) Which of the following was an advantage enjoyed by Great Britain that helps to explain why the Second Industrial Revolution originated there?
+    a. an extensive river system
+    b. the lack of internal trade tariffs
+    c. a well-developed commercial economy
+    d. natural resources
+    e. all of the above [CORRECT]
 
-70. In Russia: 
-a. industrialization occurred rapidly under the direction of the government [CORRECT]
-b. industrialization was a gradual process
-c. textile production was crucial to the industrialization process
-d. railway construction was deemed unnecessary for industrialization
-e. industrialization occurred early and rapidly due to trade with the East
+70) In Russia: 
+    a. industrialization occurred rapidly under the direction of the government [CORRECT]
+    b. industrialization was a gradual process
+    c. textile production was crucial to the industrialization process
+    d. railway construction was deemed unnecessary for industrialization
+    e. industrialization occurred early and rapidly due to trade with the East
 
-71. One of the ways in which the Second Industrial Revolution affected the social structure of Europe was to produce:
-a. a more even distribution of wealth
-b. a lower middle class of managers and clerks [CORRECT]
-c. poor people
-d. a merchant class
-e. gender equity
+71) One of the ways in which the Second Industrial Revolution affected the social structure of Europe was to produce:
+    a. a more even distribution of wealth
+    b. a lower middle class of managers and clerks [CORRECT]
+    c. poor people
+    d. a merchant class
+    e. gender equity
 
-72. As a result of the Second Industrial Revolution, the majority of skilled artisans and craftsmen:
-a. prospered
-b. became managers in factories
-c. lost their livelihoods [CORRECT]
-d. moved to towns and cities
-e. were women
+72) As a result of the Second Industrial Revolution, the majority of skilled artisans and craftsmen:
+    a. prospered
+    b. became managers in factories
+    c. lost their livelihoods [CORRECT]
+    d. moved to towns and cities
+    e. were women
 
-73. In the nineteenth century, conservatives:
-a. argued that governments should not interfere with the natural tendencies of the economy
-b. emphasized the development of sentiment and emotion
-c. favored constitutional monarchy
-d. supported the privileges of the aristocracy and clergy [CORRECT]
-e. espoused utilitarianism
+73) In the nineteenth century, conservatives:
+    a. argued that governments should not interfere with the natural tendencies of the economy
+    b. emphasized the development of sentiment and emotion
+    c. favored constitutional monarchy
+    d. supported the privileges of the aristocracy and clergy [CORRECT]
+    e. espoused utilitarianism
 
-74. Nineteenth-century Romanticism can be understood as a reaction against:
-a. conservatism
-b. changes wrought by the Enlightenment and industrialization [CORRECT]
-c. nationalism
-d. social Darwinism
-e. scientific socialism
+74) Nineteenth-century Romanticism can be understood as a reaction against:
+    a. conservatism
+    b. changes wrought by the Enlightenment and industrialization [CORRECT]
+    c. nationalism
+    d. social Darwinism
+    e. scientific socialism
 
-75. Which of the following is NOT true of nineteenth-century liberalism?
-a. It asserted that the task of government was to promote individual liberty.
-b. It opposed government intervention in the economy.
-c. It supported the privileges of the clergy. [CORRECT]
-d. It believed in the existence of natural laws that governed human behavior.
-e. It drew its support primarily from the middle classes.
+75) Which of the following is NOT true of nineteenth-century liberalism?
+    a. It asserted that the task of government was to promote individual liberty.
+    b. It opposed government intervention in the economy.
+    c. It supported the privileges of the clergy. [CORRECT]
+    d. It believed in the existence of natural laws that governed human behavior.
+    e. It drew its support primarily from the middle classes.
 
-76. Goethe's The Sorrows of Young Werther is an example of:
-a. the anarchist movement
-b. socialism
-c. early liberalism
-d. nationalism
-e. the Sturm und Drang movement [CORRECT]
+76) Goethe's The Sorrows of Young Werther is an example of:
+    a. the anarchist movement
+    b. socialism
+    c. early liberalism
+    d. nationalism
+    e. the Sturm und Drang movement [CORRECT]
 
-77. Utilitarians differed from other liberals by: 
-a. supporting government regulation of working conditions in factories [CORRECT]
-b. calling for the abolition of many traditional institutions
-c. believing in the existence of natural laws that govern human behavior
-d. calling for the abolition of private property
-e. regarding many religious practices as mere superstitions
+77) Utilitarians differed from other liberals by: 
+    a. supporting government regulation of working conditions in factories [CORRECT]
+    b. calling for the abolition of many traditional institutions
+    c. believing in the existence of natural laws that govern human behavior
+    d. calling for the abolition of private property
+    e. regarding many religious practices as mere superstitions
 
-78. Nineteenth-century anarchists were most active in
-a. Britain
-b. France
-c. Russia [CORRECT]
-d. Italy
-e. Germany
+78) Nineteenth-century anarchists were most active in
+    a. Britain
+    b. France
+    c. Russia [CORRECT]
+    d. Italy
+    e. Germany
 
-79. Industrial socialism:
-a. advocated the abolition of private property
-b. sought to create a profitable industrial enterprise without exploiting workers [CORRECT]
-c. called for the creation of phalansteries
-d. advocated a return to small-scale production by skilled artisans
-e. advocated government regulation of working conditions
+79) Industrial socialism:
+    a. advocated the abolition of private property
+    b. sought to create a profitable industrial enterprise without exploiting workers [CORRECT]
+    c. called for the creation of phalansteries
+    d. advocated a return to small-scale production by skilled artisans
+    e. advocated government regulation of working conditions
 
-80. The idea that competition was natural and necessary for social progress was promoted by:
-a. Karl Marx
-b. Charles Darwin
-c. Charles Fourier
-d. Herbert Spencer [CORRECT]
-e. Robert Owen
+80) The idea that competition was natural and necessary for social progress was promoted by:
+    a. Karl Marx
+    b. Charles Darwin
+    c. Charles Fourier
+    d. Herbert Spencer [CORRECT]
+    e. Robert Owen
 
 81. The photo used as the background of this website depicts which historical event:
     a. the Tennis Court Oath
