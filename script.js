@@ -80,6 +80,96 @@ const questions = [
     answer: "all of the above"
   },
   {
+    question: "Which of the following was NOT one of the problems facing the Christian Church in the sixteenth century?",
+    options: ["the pope's status as ruler of the Papal States", "its use of Latin in the mass and in the printed Bible", "an increasingly literate population", "its inability to tend to the physical needs of the poor", "its inability to tend to the emotional and spiritual needs of the population"],
+    answer: "its inability to tend to the physical needs of the poor"
+  },
+  {
+    question: "Which of the following was part of Luther's theology?",
+    options: ["a belief in the need to create a Protestant Church", "the notion that nature could serve as a guide to salvation", "the idea that salvation came only through faith", "the assertion that charitable works were necessary to go to heaven", "the belief that the poor should be given more social and political power"],
+    answer: "the idea that salvation came only through faith"
+  },
+  {
+    question: "Which of the following was NOT a reason that a Protestant movement emerged?",
+    options: ["the Society of Jesus took up Luther's cause", "Luther enjoyed the protection of some powerful Protestant princes", "Luther's students used the printing press to spread Luther's theology", "peasants saw Luther's theology as a justification for their dissatisfaction", "the Church was slow to excommunicate Luther and his followers"],
+    answer: "the Society of Jesus took up Luther's cause"
+  },
+  {
+    question: "The Peace of Augsburg:",
+    options: ["ended the war between the Church and the Protestant princes", "established Henry VIII's right to establish the Church of England", "established Geneva as the stronghold of Calvinism", "unified the German principalities under the Holy Roman Emperor", "established the principle of 'Cuius regio, eius religio'"],
+    answer: "established the principle of 'Cuius regio, eius religio'"
+  },
+  {
+    question: "The theology of Calvin differs from Luther's in which of the following ways?",
+    options: ["the belief that scripture alone is the guide to salvation", "the belief that salvation is earned by faith alone", "the belief that the church hierarchy is unwarranted and harmful", "the belief that some have been predestined for salvation", "the belief that the Bible should be printed in the vernacular"],
+    answer: "the belief that some have been predestined for salvation"
+  },
+  {
+    question: "The uprising and subsequent repression of the Anabaptists illustrates all of the following EXCEPT:",
+    options: ["the poorer classes understood the teachings of Protestantism to mean that the existing social hierarchy should be overthrown", "the Catholic Church still had the power to crush its opposition", "property-owning Protestant reformers were not looking to reform the social order", "the poorer classes linked Protestant theology with millenarism", "Protestantism was a movement that encompassed many different, and sometimes opposing, views"],
+    answer: "the Catholic Church still had the power to crush its opposition"
+  },
+  {
+    question: "The Council of Trent:",
+    options: ["excommunicated Martin Luther", "established the Inquisition", "insisted that the Catholic Church was the final arbiter in all matters of faith", "reconciled Protestants and Catholics", "produced the Treaty of Augsburg"],
+    answer: "insisted that the Catholic Church was the final arbiter in all matters of faith"
+  },
+  {
+    question: "The term 'dissenters' refers to:",
+    options: ["all Protestants who deny that good works can earn salvation", "the Anabaptists", "English Protestants", "those who refused to sign the Peace of Augsburg", "English Protestants who refused to join the Church of England"],
+    answer: "English Protestants who refused to join the Church of England"
+  },
+  {
+    question: "During the period from 1600 to 1715, the traditional social hierarchy of Europe came under pressure by all of the following EXCEPT:",
+    options: ["continuous warfare", "climate change resulting in a series of bad harvests", "the rejection of religious practice by large numbers of people", "increased trade and the diversification of the economy", "the desire of monarchs to increase their power and authority"],
+    answer: "the rejection of religious practice by large numbers of people"
+  },
+  {
+    question: "The English Parliament during the period from 1600 to 1715:",
+    options: ["was a relatively new institution", "was exclusively an institution of the nobility", "was an institution opposed to monarchy", "was the institution in which nobles, merchants, and professionals formed an alliance to oppose the absolutist goals of the Stuart monarchs", "was in favor of a one-man, one-vote system of democracy"],
+    answer: "was the institution in which nobles, merchants, and professionals formed an alliance to oppose the absolutist goals of the Stuart monarchs"
+  },
+  {
+    question: "In the period 1600-1715, the English had the greatest success in resisting the absolutist designs of their monarchs for all of the following reasons EXCEPT:",
+    options: ["a", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
+    question: "--",
+    options: ["a", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
+    question: "--",
+    options: ["a", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
+    question: "--",
+    options: ["a", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
+    question: "--",
+    options: ["a", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
+    question: "--",
+    options: ["a", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
+    question: "--",
+    options: ["a", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
+    question: "--",
+    options: ["a", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
     question: "--",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
@@ -142,5 +232,3 @@ function buildQuiz() {
     quizForm.appendChild(div);
   });
 }
-
-
