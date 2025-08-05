@@ -131,49 +131,99 @@ const questions = [
   },
   {
     question: "In the period 1600-1715, the English had the greatest success in resisting the absolutist designs of their monarchs for all of the following reasons EXCEPT:",
+    options: ["the nobility forged an alliance with a wealthy and powerful merchant and professional class", "the English nobility was the most powerful in all of Europe", "the Parliament was an old and respected institution", "the Stuart monarchs were perceived to have Catholic leanings and sympathies", "the English economy was well-developed and diversified"],
+    answer: "the English nobility was the most powerful in all of Europe"
+  },
+  {
+    question: "Compared with the Romanov Tsars, the Bourbon monarchs of France in the period 1600-1715:",
+    options: ["made less use of the Church and its expertise and influence", "was less reliant on the nobility for their power", "were more absolutist in their style of government", "sought to expand their empire to a larger extent", "were more committed to the primacy of the privileges and prerogatives of the nobility"],
+    answer: "was less reliant on the nobility for their power"
+  },
+  {
+    question: "The single most important factor in explaining the need of central and eastern European monarchs and nobles to reach compromises on the issue of sovereignty during the period from 1600 to 1715 was:",
+    options: ["the lack of religiosity in the people", "the lack of ambitious monarchs", "the existence of strong peasant movements", "the lack of strong armies", "the lack of a well-developed middle class of merchants and professional"],
+    answer: "the lack of a well-developed middle class of merchants and professional"
+  },
+  {
+    question: "The reign of Peter the Great of Russia (1682-1725) resulted in:",
+    options: ["the abolition of the Russian Orthodox Church", "the territorial expansion of the Russian empire", "the weakening of serfdom", "a decrease in the tax burden on poor peasants", "the emergence of a wealthy middle class"],
+    answer: "the territorial expansion of the Russian empire"
+  },
+  {
+    question: "Compared with their counterparts in Russia, the English peasantry of the early 1700s:",
+    options: ["bore a greater tax burden", "enjoyed less freedom of movement", "had a greater chance of improving their social and economic position", "enjoyed less religous freedom", "were more likely to live in towns"],
+    answer: "enjoyed less freedom of movement"
+  },
+  {
+    question: "By the early eighteenth century, the kingdom whose political system afforded the greatest amount of self-rule to its subjects was:",
+    options: ["England", "France", "Prussia", "Austria", "Russia"],
+    answer: "England"
+  },
+  {
+    question: "Medieval Christian soldiers advocated the Aristotelian view of the cosmos because:",
+    options: ["Aristotle was Christian", "Aristotle was mentioned in the Bible", "there was an intellectual fit between the Aristotelian view and Christian theology", "they were unaware of the works of other Ancient Greek philosophers", "the Catholic Church had ties with Aristotle and promoted it in their teachings"],
+    answer: "there was an intellectual fit between the Aristotelian view and Christian theology"
+  },
+  {
+    question: "Which of the following is NOT a reason that the Church was alarmed by Copernicus's suggestion that the cosmos was heliocentric?",
+    options: ["It destroyed the theological coherence of the cosmos", "Copernicus was a Protestant", "It questioned the authority of the Aristotelian tradition on which scholasticism survived", "It required the Church to admit that it had been in error", "It contradicted the physical priciples that had served as the foundation of physics"],
+    answer: "Copernicus was a Protestant"
+  },
+  {
+    question: "The 17th century philosopher who first suggested that the planets' orbits were elliptical rather than circular was:",
+    options: ["Copernicus", "Galileo", "Kepler", "Aristotle", "Newton"],
+    answer: "Kepler"
+  },
+  {
+    question: "The event that finally caused the Church to summon Galileo before the Inquisition was:",
+    options: ["his invention of the telescope", "b", "c", "d", "e"],
+    answer: "a"
+  },
+  {
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
   },
   {
-    question: "--",
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
   },
   {
-    question: "--",
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
   },
   {
-    question: "--",
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
   },
   {
-    question: "--",
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
   },
   {
-    question: "--",
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
   },
   {
-    question: "--",
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
   },
   {
-    question: "--",
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
   },
   {
-    question: "--",
+    question: "---",
     options: ["a", "b", "c", "d", "e"],
     answer: "a"
-  }
+  },
 ];
 
 const startBtn = document.getElementById("start-btn");
