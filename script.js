@@ -174,56 +174,6 @@ const questions = [
     options: ["Copernicus", "Galileo", "Kepler", "Aristotle", "Newton"],
     answer: "Kepler"
   },
-  {
-    question: "The event that finally caused the Church to summon Galileo before the Inquisition was:",
-    options: ["his invention of the telescope", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
-  {
-    question: "---",
-    options: ["a", "b", "c", "d", "e"],
-    answer: "a"
-  },
 ];
 
 const startBtn = document.getElementById("start-btn");
